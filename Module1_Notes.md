@@ -1,6 +1,6 @@
 # CIT 114
-## Module 1 Notes
-### Introduction to Information Technology
+## Notes 1
+### Cloud Concepts Overview
 
 -item1
 -item2
